@@ -1,4 +1,4 @@
-package com.tiny.applicationtosenior
+package com.tiny.tinycleanarchitecture
 
 import org.junit.Test
 
